@@ -8,5 +8,5 @@ docker compose up
 localhost:8000/docs
 
 # if you change the code rebuild the project
-docker compose buld 
+docker compose build 
 
